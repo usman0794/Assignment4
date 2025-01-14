@@ -1,3 +1,4 @@
+/* Global Styles */
 body {
     font-family: 'Arial', sans-serif;
     margin: 0;
@@ -21,8 +22,14 @@ header {
     margin-bottom: 30px;
 }
 
-h1, h2 {
+h1 {
+    color: #ff5733; /* Specific color for Student Management System heading */
+    text-align: center;
+}
+
+h2 {
     color: #0056b3;
+    text-align: center;
 }
 
 /* Form Styles */
