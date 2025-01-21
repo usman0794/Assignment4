@@ -13,5 +13,11 @@ This is a simple web application built with the **MERN stack** (MongoDB, Express
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB (MongoDB Atlas)
 
-## Project Structure
+
+## Installation
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/your-repository-name.git
 
